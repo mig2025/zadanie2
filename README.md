@@ -1,6 +1,7 @@
 Задание Обновление ядра Centos8
 
 Рабочее место Debian 12
+
 при добалении репозитория https://www.elrepo.org/elrepo-release-8.el8.elrepo.noarch.rpm возникла ошибка=> Error: Failed to download metadata for repo 'appstream'
 Решение:
 1. cd /etc/yum.repos.d/
